@@ -59,7 +59,7 @@ class _MyAppState extends State<MyApp> {
              localizationsDelegates: LocalizationService.localizationsDelegate,
 
              debugShowCheckedModeBanner: false,
-             home:NavBarScreen(),
+             home:LoadingScreen(),
            );
          }
      );
